@@ -31,3 +31,4 @@ src/
   store/       zustand
   hooks/       useCountUp
 ```
+"# sunc" 
